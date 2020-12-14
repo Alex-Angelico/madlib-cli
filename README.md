@@ -55,5 +55,3 @@ Then select and open ```madlib.py```
 ## Change Log
 
 1.0: *Added basic functionality* - 12 Dec 2020  
-# madlib-cli
-# madlib-cli
